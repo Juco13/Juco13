@@ -1,16 +1,14 @@
-## Hi there 👋
+## ola 👋
 
-<!--
-**Juco13/Juco13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Juco13/Joaquim** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em um **mercado**
+- 🌱 Atualmente estou aprendendo todoas as materias do ensino medio
+- 👯 Procuro colaborar em varias coisas
+- 🤔 Estou procurando ajuda com materia
+- 💬 Pergunte-me sobre a vida
+- 📫 Como entrar em contato comigo: por vario,como insta
+- 😄 Pronomes: zolatto
+- ⚡ Curiosidade: sla
